@@ -17,7 +17,7 @@
     ·
     <a href="https://github.com/Athlete-Simulator/GOW2024/issues">🐛Report Bug</a>
     ·
-    <a href="https://github.com/Athlete-Simulator/GOW2024/issues">🌟Request Feature</a>
+    <a href="https://github.com/Athlete-Simulator/GOW2024">🌟Repository avec le code</a>
   </p>
 </div>
 
